@@ -2,6 +2,10 @@
 
 A simple desktop web application to extract a single page from a PDF file, built with Python, Flask, PyQt5, and PyPDF2.
 
+<p align="center">
+   <img src="Icon.png">
+</p>
+
 ## Features
 
 - Extract a specific page from any PDF file.
